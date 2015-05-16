@@ -30,3 +30,10 @@ img {
     display: block;
   }
 }
+
+@media (min-width: 1024px) {
+  .container {
+    width: 960px;
+    margin: 0 auto;
+  }
+}
