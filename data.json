@@ -1,0 +1,53 @@
+{
+  "resource": [{
+    "name": "W3schools",
+    "url": "http://www.w3schools.com/",
+    "img": "resource/1.jpg",
+    "intro": "W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding."
+  }, {
+    "name": "Htmlgoodies",
+    "url": "http://www.htmlgoodies.com/",
+    "img": "resource/2.jpg",
+    "intro": "A team of developers created an HTML5 app for a major website that offers a much more sophisticated user experience on each of the mobile platforms commonly in use today. The tools they used eliminated much of the custom coding required to bring the desired features to each platform."
+  }, {
+    "name": "Quackit",
+    "url": "http://www.quackit.com/",
+    "img": "resource/3.jpg",
+    "intro": "Ian initially created Quackit in order to point web developers to resources that could potentially help them build better websites. Some of these resources were available from the Quackit website itself, others were from third party websites."
+  }, {
+    "name": "Html",
+    "url": "http://html.net/",
+    "img": "resource/4.jpg",
+    "intro": "People often think it is extremely difficult to make a website. That is not the case! Everyone can learn how to make a website. Use our tutorials on HTML and CSS and PHP and JavaScript and start building your own website in about an hour."
+  }, {
+    "name": "Tizag",
+    "url": "http://www.tizag.com/",
+    "img": "resource/5.jpg",
+    "intro": "Tizag was designed to teach beginner web programmers how to use HTML and CSS. We invite you to begin the tutorials right away."
+  }, {
+    "name": "Htmldog",
+    "url": "http://www.htmldog.com/",
+    "img": "resource/6.jpg",
+    "intro": "Welcome to HTML Dog, the web designer’s resource for everything HTML, CSS, and JavaScript, the most common technologies used in making web pages."
+  }, {
+    "name": "Pageresource",
+    "url": "http://www.pageresource.com/",
+    "img": "resource/7.jpg",
+    "intro": "Pageresource is a Web Development Tutorial and Information Site."
+  }, {
+    "name": "Htmlcodetutorial",
+    "url": "http://www.htmlcodetutorial.com/",
+    "img": "resource/8.jpg",
+    "intro": "Welcome to the HTML Code Tutorial. Our goal is to provide the most helpful and complete guide to creating web pages anywhere."
+  }, {
+    "name": "Tuts+",
+    "url": "http://tutsplus.com/",
+    "img": "resource/9.jpg",
+    "intro": "Tuts+ helps you learn creative skills and shape the life you want."
+  }, {
+    "name": "Webreference",
+    "url": "http://www.webreference.com/",
+    "img": "resource/10.jpg",
+    "intro": "One of the oldest (created in 1995) and most respected Web development sites, WebReference.com is all about the Web and Webmastery. From browsing to authoring, HTML to advanced site design, we’ll keep you informed."
+  }]
+}
