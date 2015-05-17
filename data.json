@@ -1,4 +1,52 @@
 {
+  "css": [{
+    "name": "Less",
+    "url": "",
+    "img": "css/less.png",
+    "intro": "Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themable and extendable."
+  }, {
+    "name": "Sass",
+    "url": "",
+    "img": "css/sass.svg",
+    "intro": "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world."
+  }, {
+    "name": "Stylus",
+    "url": "",
+    "img": "css/stylus.png",
+    "intro": "Expressive, dynamic, robust CSS"
+  }],
+  "js": [{
+    "name": "jQuery",
+    "url": "http://jquery.com/",
+    "img": "js/jquery.png",
+    "intro": "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript."
+  }, {
+    "name": "MooTools",
+    "url": "http://mootools.net/",
+    "img": "js/mootools.png",
+    "intro": "MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs."
+  }, {
+    "name": "Zepto",
+    "url": "http://zeptojs.com/",
+    "img": "js/zepto.png",
+    "intro": "Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. If you use jQuery, you already know how to use Zepto."
+  }],
+  "framework": [{
+    "name": "Bootstrap",
+    "url": "http://getbootstrap.com/",
+    "img": "framework/bs.png",
+    "intro": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web."
+  }, {
+    "name": "Foundation",
+    "url": "http://foundation.zurb.com/",
+    "img": "framework/foundation.svg",
+    "intro": "The most advanced responsive front-end framework in the world."
+  }, {
+    "name": "Amaze UI",
+    "url": "http://amazeui.org/",
+    "img": "framework/amazeui.png",
+    "intro": "中国首个开源 HTML5 跨屏前端框架"
+  }],
   "resource": [{
     "name": "W3schools",
     "url": "http://www.w3schools.com/",
