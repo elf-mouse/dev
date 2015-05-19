@@ -1,4 +1,20 @@
 {
+  "browser": [{
+    "name": "Google Chrome",
+    "url": "",
+    "img": "chrome.svg",
+    "intro": "谷歌浏览器"
+  }, {
+    "name": "Mozilla Firefox",
+    "url": "",
+    "img": "firefox.svg",
+    "intro": "火狐浏览器"
+  }, {
+    "name": "Internet Explorer",
+    "url": "",
+    "img": "ie.svg",
+    "intro": "坑爹的IE浏览器"
+  }],
   "css": [{
     "name": "Less",
     "url": "",
