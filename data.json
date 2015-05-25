@@ -119,12 +119,55 @@
     "name": "Bower",
     "url": "http://bower.io/",
     "img": "bower.png",
-    "intro": "A package manager for the web"
+    "intro": "A package manager for the web."
+  }, {
+    "name": "component",
+    "url": "https://github.com/componentjs/component",
+    "img": "component.png",
+    "intro": "Client package management for building better web applications."
   }, {
     "name": "spm",
     "url": "http://spmjs.io/",
     "img": "spm.png",
     "intro": "Brand new static package manager for browser."
+  }, {
+    "name": "browserify",
+    "url": "http://browserify.org/",
+    "img": "browserify.png",
+    "intro": "Browser-side require() the node.js way."
+  }, {
+    "name": "Duo",
+    "url": "http://duojs.org/",
+    "img": "duo.png",
+    "intro": "Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless."
+  }],
+  "loader": [{
+    "name": "RequireJS",
+    "url": "http://requirejs.org/",
+    "img": "requirejs.png",
+    "intro": "A file and module loader for JavaScript."
+  }, {
+    "name": "SeaJS",
+    "url": "http://seajs.org/",
+    "img": "seajs.png",
+    "intro": "A Module Loader for the Web."
+  }, {
+    "name": "HeadJS",
+    "url": "http://headjs.com/",
+    "img": "headjs.png",
+    "intro": "The only script in your HEAD."
+  }],
+  "templating": [{
+    "name": "mustache.js",
+    "url": "http://mustache.github.io/",
+    "img": "mustache.jpg",
+    "intro": "Minimal templating with {{mustaches}} in JavaScript."
+  }, {
+    "name": "handlebars.js",
+    "url": "http://handlebarsjs.com/",
+    "img": "handlebars.png",
+    "intro": "An extension to the Mustache templating language.",
+    "bgColor": "#f7931e"
   }],
   "resource": [{
     "name": "W3schools",
