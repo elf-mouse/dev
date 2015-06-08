@@ -241,5 +241,22 @@
     "url": "http://webpack.github.io/",
     "img": "webpack.svg",
     "intro": "MODULE BUNDLER"
+  }],
+  "plus": [{
+    "name": "Linux",
+    "url": "http://www.linux.org/",
+    "img": "commandline.svg",
+    "intro": ""
+  }, {
+    "name": "Git",
+    "url": "http://www.git-scm.com/",
+    "img": "git.png",
+    "intro": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+  }, {
+    "name": "Node.js",
+    "url": "https://nodejs.org/",
+    "img": "nodejs.svg",
+    "intro": "Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+    "bgColor": "#303030"
   }]
 }
