@@ -116,17 +116,27 @@
     "bgColor": "#390F39"
   }],
   "library": [{
+    "name": "Handlebars",
+    "url": "http://handlebarsjs.com/",
+    "img": "handlebars.png",
+    "intro": "An extension to the Mustache templating language.",
+    "bgColor": "#f7931e"
+  }, {
     "name": "React",
     "url": "http://facebook.github.io/react/",
     "img": "react.svg",
     "intro": "A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES",
     "bgColor": "#222"
   }, {
-    "name": "Handlebars",
-    "url": "http://handlebarsjs.com/",
-    "img": "handlebars.png",
-    "intro": "An extension to the Mustache templating language.",
-    "bgColor": "#f7931e"
+    "name": "Polymer",
+    "url": "https://www.polymer-project.org",
+    "img": "polymer.svg",
+    "intro": "Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers."
+  }, {
+    "name": "Angular",
+    "url": "https://angular.io/",
+    "img": "angular.png",
+    "intro": "Angular is a development platform for building mobile and desktop web applications"
   }],
   "loader": [{
     "name": "RequireJS",
