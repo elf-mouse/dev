@@ -165,10 +165,68 @@
     "img": "spm.png",
     "intro": "Brand new static package manager for browser."
   }, {
+    "name": "Browserify",
+    "url": "http://browserify.org/",
+    "img": "browserify.png",
+    "intro": "Browserify lets you require('modules') in the browser by bundling up all of your dependencies."
+  }, {
     "name": "jspm",
     "url": "http://jspm.io/",
     "img": "jspm.png",
     "intro": "Frictionless browser package management."
+  }, {
+    "name": "Duo",
+    "url": "http://duojs.org/",
+    "img": "duo.png",
+    "intro": "A next-generation package manager for the front-end."
+  }],
+  "build": [{
+    "name": "Grunt",
+    "url": "http://gruntjs.com/",
+    "img": "grunt.svg",
+    "intro": "The JavaScript Task Runner"
+  }, {
+    "name": "Gulp",
+    "url": "http://gulpjs.com/",
+    "img": "gulp.png",
+    "intro": "Automate and enhance your workflow"
+  }, {
+    "name": "Broccoli",
+    "url": "http://broccolijs.com/",
+    "img": "broccoli.png",
+    "intro": "The asset pipeline for ambitious applications."
+  }, {
+    "name": "Yeoman",
+    "url": "http://yeoman.io/",
+    "img": "yeoman.png",
+    "intro": "THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS"
+  }, {
+    "name": "Brunch",
+    "url": "http://brunch.io/",
+    "img": "brunch.svg",
+    "intro": "Brunch is an ultra-fast HTML5 build tool"
+  }, {
+    "name": "webpack",
+    "url": "http://webpack.github.io/",
+    "img": "webpack.svg",
+    "intro": "MODULE BUNDLER"
+  }],
+  "plus": [{
+    "name": "Linux",
+    "url": "http://www.linux.org/",
+    "img": "commandline.svg",
+    "intro": ""
+  }, {
+    "name": "Git",
+    "url": "http://www.git-scm.com/",
+    "img": "git.png",
+    "intro": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+  }, {
+    "name": "Node.js",
+    "url": "https://nodejs.org/",
+    "img": "nodejs.svg",
+    "intro": "Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+    "bgColor": "#303030"
   }],
   "resource": [{
     "name": "W3schools",
@@ -220,43 +278,5 @@
     "url": "http://www.webreference.com/",
     "img": "10.jpg",
     "intro": "One of the oldest (created in 1995) and most respected Web development sites, WebReference.com is all about the Web and Webmastery. From browsing to authoring, HTML to advanced site design, we’ll keep you informed."
-  }],
-  "workflow": [{
-    "name": "Grunt",
-    "url": "http://gruntjs.com/",
-    "img": "grunt.svg",
-    "intro": "The JavaScript Task Runner"
-  }, {
-    "name": "Gulp",
-    "url": "http://gulpjs.com/",
-    "img": "gulp.png",
-    "intro": "Automate and enhance your workflow"
-  }, {
-    "name": "Yeoman",
-    "url": "http://yeoman.io/",
-    "img": "yeoman.png",
-    "intro": "THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS"
-  }, {
-    "name": "webpack",
-    "url": "http://webpack.github.io/",
-    "img": "webpack.svg",
-    "intro": "MODULE BUNDLER"
-  }],
-  "plus": [{
-    "name": "Linux",
-    "url": "http://www.linux.org/",
-    "img": "commandline.svg",
-    "intro": ""
-  }, {
-    "name": "Git",
-    "url": "http://www.git-scm.com/",
-    "img": "git.png",
-    "intro": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
-  }, {
-    "name": "Node.js",
-    "url": "https://nodejs.org/",
-    "img": "nodejs.svg",
-    "intro": "Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
-    "bgColor": "#303030"
   }]
 }
